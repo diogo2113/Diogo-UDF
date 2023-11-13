@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Minado.CampoMinado.java&apos; to &apos;Jogo.java&apos;&#x0D;&#x0A;- Original project: &apos;DiogoUdf&apos;&#x0D;&#x0A;- Original element: &apos;Minado.CampoMinado.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Minado.Jogo.java&apos;" description="Rename compilation unit &apos;CampoMinado.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Minado{CampoMinado.java" name="Jogo.java" references="false" stamp="1699838709113" version="1.0"/>
+</session>
